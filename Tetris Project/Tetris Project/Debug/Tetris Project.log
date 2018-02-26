@@ -1,0 +1,15 @@
+﻿  Tetris Game.cpp
+c:\users\shamir khan\downloads\tetris project\tetris project\tetris project\view.h(116): warning C4101: 'info': unreferenced local variable
+c:\users\shamir khan\downloads\tetris project\tetris project\tetris project\score.h(124): warning C4101: 'info': unreferenced local variable
+c:\users\shamir khan\downloads\tetris project\tetris project\tetris project\openingpage.h(48): warning C4101: 'info': unreferenced local variable
+c:\users\shamir khan\downloads\tetris project\tetris project\tetris project\tetris game.cpp(196): warning C4102: 'label': unreferenced label
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\xutility(2372): warning C4996: 'std::copy::_Unchecked_iterators::_Deprecate': Call to 'std::copy' with parameters that may be unsafe - this call relies on the caller to check that the passed values are correct. To disable this warning, use -D_SCL_SECURE_NO_WARNINGS. See documentation on how to use Visual C++ 'Checked Iterators'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xutility(2372): note: see declaration of 'std::copy::_Unchecked_iterators::_Deprecate'
+  c:\users\shamir khan\downloads\tetris project\tetris project\tetris project\pieces.h(120): note: see reference to function template instantiation '_OutIt *std::copy<int*,int*>(_InIt,_InIt,_OutIt)' being compiled
+          with
+          [
+              _OutIt=int *,
+              _InIt=int *
+          ]
+  Tetris Project.vcxproj -> C:\Users\Shamir Khan\Downloads\Tetris Project\Tetris Project\Debug\Tetris Project.exe
+  Tetris Project.vcxproj -> C:\Users\Shamir Khan\Downloads\Tetris Project\Tetris Project\Debug\Tetris Project.pdb (Full PDB)
